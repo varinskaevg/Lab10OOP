@@ -1,0 +1,16 @@
+D:\Нова папка\Lab10OOP\bin\Debug\net8.0-windows\Lab10OOP.exe
+D:\Нова папка\Lab10OOP\bin\Debug\net8.0-windows\Lab10OOP.deps.json
+D:\Нова папка\Lab10OOP\bin\Debug\net8.0-windows\Lab10OOP.runtimeconfig.json
+D:\Нова папка\Lab10OOP\bin\Debug\net8.0-windows\Lab10OOP.dll
+D:\Нова папка\Lab10OOP\bin\Debug\net8.0-windows\Lab10OOP.pdb
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.Form1.resources
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.AssemblyInfo.cs
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.dll
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\refint\Lab10OOP.dll
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.pdb
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\Lab10OOP.genruntimeconfig.cache
+D:\Нова папка\Lab10OOP\obj\Debug\net8.0-windows\ref\Lab10OOP.dll
